@@ -1,0 +1,2 @@
+class ServiceInterface:
+    name:str
